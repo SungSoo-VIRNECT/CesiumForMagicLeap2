@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cesium.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 707f4aa586d274141a6164a7e8c6c100,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 555e0b8b39a967a4d8e31ce341a52a96,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 375ed134cfba8444ab2bccc83ba8928e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 31f960f5f9a283141a4f925611c286e9,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 124248df1e5927c4b97bb3e2cdcf4040,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4337d13b8267d974bbba04d08c5d648b,
+      type: 2}
